@@ -1,3 +1,5 @@
+// Note: This project is from Udemy course by stephen grider.
+// This is created only for sake of understanding.
 
 const Redux = require('redux');
 
